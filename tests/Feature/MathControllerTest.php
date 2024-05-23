@@ -20,6 +20,9 @@ class MathControllerTest extends TestCase
             ['5*6/3+2-1', 11.0],
             ['4+18/2-3*2', 7.0],
             ['7-3+2*5/2', 9.0],
+            ['sqrt4+2', 4.0],
+            ['sqrt16+sqrt9*2', 10.0],
+            ['10-sqrt9', 7.0],
         ];
     }
 
