@@ -2,7 +2,7 @@
 
 This is a simple calculator application built with Laravel and Vue.js. It allows users to input mathematical expressions and evaluates them.
 
-![Calculator Screenshot](/public/imagges/calculator.png)
+![Calculator Screenshot](./public/images/calculator.png)
 
 ## Features
 
